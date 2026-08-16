@@ -1,0 +1,6 @@
+extracted_npy/
+__MACOSX/
+__pycache__/
+synthetic_data/
+synthetic_dataset/
+test.py.zip
